@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: cloud_information_uservoice_devportal
+    tables:
+      - name: external_user

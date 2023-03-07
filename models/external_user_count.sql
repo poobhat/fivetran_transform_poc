@@ -1,0 +1,1 @@
+select count(1) as ct from {{ source('cloud_information_uservoice_devportal', 'external_user')}}
